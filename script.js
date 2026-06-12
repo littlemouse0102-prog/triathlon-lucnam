@@ -1,4 +1,4 @@
-
+console.log("SCRIPT DANG CHAY");
 const csvUrl =
 "https://docs.google.com/spreadsheets/d/1AWZRIlJTNjbVUdLm4X-oItdpyBzfO6kq/export?format=csv&gid=20758593";
 
